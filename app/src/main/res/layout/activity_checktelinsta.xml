@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.videostatus.Activity.checktelinsta">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/checktool"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+
+        android:background="@color/colorAccent">
+
+    </androidx.appcompat.widget.Toolbar>
+    <TextView
+        android:id="@+id/checktextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:textSize="50px"
+        android:text="شبکه مورد درخواست"/>
+    <RadioGroup
+        android:id="@+id/checkradiogrp"
+        android:layout_below="@id/checktextview"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"
+        android:textDirection="rtl"
+        android:layout_width="match_parent"
+        android:layoutDirection="rtl"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="تلگرام"
+            android:id="@+id/telradio">
+
+        </RadioButton>
+        <RadioButton
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="اینستاگرام"
+            android:id="@+id/instaradio">
+
+        </RadioButton>
+    </RadioGroup>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="نام کاربری"
+        android:textSize="50px"
+        android:id="@+id/checktextviewid"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10px"
+        android:layout_below="@id/checkradiogrp"/>
+    <EditText
+        android:id="@+id/checkedit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/checktextviewid"
+        android:layout_marginTop="10px"
+        android:layout_marginRight="10px"/>
+
+    <Button
+        android:id="@+id/checkbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/checkedit"
+        android:text="ارسال"/>
+
+</RelativeLayout>

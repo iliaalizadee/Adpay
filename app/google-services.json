@@ -1,0 +1,175 @@
+{
+  "project_info": {
+    "project_number": "610907918844",
+    "firebase_url": "https://example-ecace.firebaseio.com",
+    "project_id": "example-ecace",
+    "storage_bucket": "example-ecace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610907918844:android:b0a7e75afda2c725",
+        "android_client_info": {
+          "package_name": "ir.developers.newsfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610907918844-6c8elup33338i3ua1h63cnoiv4nf59d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.developers.newsfa",
+            "certificate_hash": "5a7bf91888c1043ecc57783d2bd2297c1cd23192"
+          }
+        },
+        {
+          "client_id": "610907918844-2oace7evf2i411oc8bkv3tqpfrmu1phj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.developers.newsfa",
+            "certificate_hash": "aad34813d11fa7ce29ee3be079601dc1bc426e61"
+          }
+        },
+        {
+          "client_id": "610907918844-avuckti8mbkpnaa1m34d0f0ikc39rfqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3cSuRj0csnxxxjoC-GDxx458hDDHfuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610907918844-avuckti8mbkpnaa1m34d0f0ikc39rfqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610907918844:android:8045c6116c7522db",
+        "android_client_info": {
+          "package_name": "ir.ssag.status"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610907918844-om72r37jlic66ddsoeiiq9et1d2ts1ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.ssag.status",
+            "certificate_hash": "5a7bf91888c1043ecc57783d2bd2297c1cd23192"
+          }
+        },
+        {
+          "client_id": "610907918844-7dfthp6ldv5vei5na8g2oo9ai9b1iu7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.ssag.status",
+            "certificate_hash": "aad34813d11fa7ce29ee3be079601dc1bc426e61"
+          }
+        },
+        {
+          "client_id": "610907918844-avuckti8mbkpnaa1m34d0f0ikc39rfqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3cSuRj0csnxxxjoC-GDxx458hDDHfuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610907918844-avuckti8mbkpnaa1m34d0f0ikc39rfqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610907918844:android:c312f952de21c669",
+        "android_client_info": {
+          "package_name": "ir.studiosagold.recipebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610907918844-sb8592qmc7n43m8dm1n7ngt9l17khin9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.studiosagold.recipebox",
+            "certificate_hash": "aad34813d11fa7ce29ee3be079601dc1bc426e61"
+          }
+        },
+        {
+          "client_id": "610907918844-56tedk8rrmdk3poncltjnnssl9vdph5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.studiosagold.recipebox",
+            "certificate_hash": "5a7bf91888c1043ecc57783d2bd2297c1cd23192"
+          }
+        },
+        {
+          "client_id": "610907918844-avuckti8mbkpnaa1m34d0f0ikc39rfqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3cSuRj0csnxxxjoC-GDxx458hDDHfuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610907918844-avuckti8mbkpnaa1m34d0f0ikc39rfqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610907918844:android:4c7feb3850559f05",
+        "android_client_info": {
+          "package_name": "ir.studiosagold.videostatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610907918844-avuckti8mbkpnaa1m34d0f0ikc39rfqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3cSuRj0csnxxxjoC-GDxx458hDDHfuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610907918844-avuckti8mbkpnaa1m34d0f0ikc39rfqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
