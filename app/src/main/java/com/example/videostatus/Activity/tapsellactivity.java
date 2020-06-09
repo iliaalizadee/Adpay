@@ -35,14 +35,14 @@ public class tapsellactivity extends AppCompatActivity {
         setContentView(R.layout.activity_tapsellactivity);
         manager = new PrefManager(this);
         method = new Method(this);
-        TapsellPlus.initialize(this,"rjqkafbjlsebjgqnicjpfgqjaptdirglhlfrrriqarcsjhgaregpdkkicrhsgsrjnjolqc");
+        TapsellPlus.initialize(this,"");
          dialog = ProgressDialog.show(this,"در حال بارگذاری","لطفا صبور باشید");
         requestAd();
 
 
     }
     private void requestAd(){
-        TapsellPlus.requestRewardedVideo(this, "5e91e5d64041c40001a96bd0", new AdRequestCallback() {
+        TapsellPlus.requestRewardedVideo(this, "", new AdRequestCallback() {
             @Override
             public void response() {
                 super.response();
@@ -62,7 +62,7 @@ public class tapsellactivity extends AppCompatActivity {
         });
     }
     private void showAd() {
-        TapsellPlus.showAd(this, "5e91e5d64041c40001a96bd0", new AdShowListener() {
+        TapsellPlus.showAd(this, "", new AdShowListener() {
             @Override
             public void onOpened() {
                 super.onOpened();
