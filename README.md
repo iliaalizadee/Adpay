@@ -1,2 +1,2 @@
 # Adpay
-Make money by collecting points earned by watching ads , liking videos and ...
+A platform for jobless people to watch ads and clips in order to make some money 
